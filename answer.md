@@ -1,8 +1,8 @@
 # 第1次練習-練習-PC1
 >
->學號：1234567
+>學號：111111102
 ><br />
->姓名：王小明
+>姓名：張紘榤
 ><br />
 >作業撰寫時間：180 (mins，包含程式撰寫時間)
 ><br />
@@ -15,41 +15,20 @@
 
 ## 說明程式與內容
 
-開始寫說明，該說明需說明想法，
-並於之後再對上述想法的每一部分將程式進一步進行展現，
-若需引用程式區則使用下面方法，
-若為.cs檔內程式除了於敘述中需註明檔案名稱外，
-還需使用語法` ```語言種類 程式碼 ``` `，其中語言種類若是要用python則使用py，java則使用java，C/C++則使用cpp，
-下段程式碼為語言種類選擇csharp使用後結果：
-
-```csharp
-public void mt_getResult(){
-    ...
-}
-```
-
-若要於內文中標示部分網頁檔，則使用以下標籤` ```html 程式碼 ``` `，
-下段程式碼則為使用後結果：
-
-```html
-<%@ Page Language="C#" AutoEventWireup="true" ...>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" ...>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
-```
-更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
+1.新增終端機 git clone git@github.com:jack0628/111-2PC1.git
+2.新增檔案 A.txt 輸入This is an apple. 存檔
+3.add完接著git commit後輸入說明存檔關閉
+4.git push
+5.git pull
+6.git branch testdev
+7.git checkout testdev
+8.新增檔案 B.txt 輸入This is a bear. 存檔
+9.add完接著git commit後輸入說明存檔關閉
+10.git push
+11.git pull
+12.git checkout main
+13.新增檔案 B.txt 輸入This is a cake. 存檔
+14.add完接著git commit後輸入說明存檔關閉
 
 ## 個人認為完成作業須具備觀念
 
