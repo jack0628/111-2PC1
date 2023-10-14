@@ -33,5 +33,5 @@
 ## 個人認為完成作業須具備觀念
 
 首先要先熟悉指令與如何操作vscode，這次用到的語法有：
-(1)git clone(2)git commit(3)git push(4)git pull(5)git branch(6)git checkout
+(1)git clone(克隆)(2)git commit(提交)(3)git push(推送)(4)git pull(拉取)(5)git branch(建立分支)(6)git checkout(切換分支)
 加上隨時要記得commit和Push才會使檔案推送到github。(還有藉由git log指令來觀看Git Graph線圖)
